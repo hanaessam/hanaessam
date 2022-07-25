@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hana</h1>
 <h3 align="center">A baby android developer</h3>
 
-- 🔭 I’m currently working on **voxear app**
+- 🔭 I’m currently working on **Magic 8 Ball flutter app**
 
 - 🌱 I’m currently learning **Flutter, data structures and algorithms.**
 
