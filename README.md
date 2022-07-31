@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hana</h1>
 <h3 align="center">A baby android developer</h3>
 
-- 🔭 I’m currently working on **BMI Calculator app**
+- 🔭 I’m currently working on **Clima weather app**
 
 - 🌱 I’m currently learning **Flutter, React.js, data structures and algorithms.**
 
