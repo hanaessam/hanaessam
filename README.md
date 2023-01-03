@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hana</h1>
-<h3 align="center">A baby mobile app developer</h3>
+<h1 align="center">Hi, I'm Hana</h1>
+-  I’m currently working on **La vie hackathon app**
 
-- 🔭 I’m currently working on **La vie hackathon app**
+-  I’m currently learning **Flutter, React.js, data structures and algorithms.**
 
-- 🌱 I’m currently learning **Flutter, React.js, data structures and algorithms.**
-
-- 📫 How to reach me **hanaessamsayed@gmail.com**
+-  How to reach me **hanaessamsayed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
