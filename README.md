@@ -9,4 +9,4 @@
 
 Thank you for taking the time to get to know me. If you have any questions or would like to connect, please don't hesitate to reach out.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hanaessam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanaessam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
