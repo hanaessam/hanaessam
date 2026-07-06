@@ -1,12 +1,10 @@
-<img align="right" src="./assets/hana-waving.png" width="160" />
+<img align="right" src="./assets/hana-typin.png" width="160" />
 
 # Hi, I'm Hana.
 
-**Software Engineer | MSc Computer Software Engineering @ Queen's University, Canada**
+**Software Engineer | MSc Student at the School of Computing @ Queen's University, Canada**
 
-I build fullstack applications and deploy them properly. Currently on a fully funded national scholarship (Digilians Initiative, Egypt MCIT), finishing my master's in September 2026.
-
-My sweet spot is somewhere between writing the API and making sure it actually runs in production — backend logic, cloud infrastructure, and the glue that holds it all together.
+Fullstack engineer who also handles the infrastructure. I build with MERN and FastAPI, deploy on AWS, and automate what I can. I care more about how something runs than how it demos. Always building, always learning.
 
 ---
 
