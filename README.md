@@ -1,4 +1,4 @@
-<img align="right" src="./assets/hana-typin.png" width="160" />
+<img align="right" src="./assets/hana-typing.png" width="160" />
 
 # Hi, I'm Hana.
 
